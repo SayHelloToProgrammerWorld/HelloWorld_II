@@ -1,2 +1,1 @@
-# HelloWorld_II
-Just another repository
+I want to change my career to AI
